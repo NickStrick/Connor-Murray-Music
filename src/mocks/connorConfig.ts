@@ -133,7 +133,6 @@ export const mockSiteConfig: SiteConfig = {
         "I enjoy most genres, drawing inspiration from indie/alternative bands and blues/rock guitarists like Eric Clapton, Jimi Hendrix, Jimmy Page, and David Gilmour.",
       items: [
         { title: "Blues" },
-        { title: "Classical" },
         { title: "Country" },
         { title: "Folk" },
         { title: "Hip Hop" },
@@ -166,10 +165,10 @@ export const mockSiteConfig: SiteConfig = {
       subtitle: "Personalized lessons for all ages and levels",
       items: [
         { title: "Guitar" },
+         { title: "Piano" },
+         { title: "Ukulele" },
         { title: "Bass Guitar" },
         { title: "Drums" },
-        { title: "Piano" },
-        { title: "Ukulele" },
         { title: "Music Theory" },
       ],
       columns: 3,
